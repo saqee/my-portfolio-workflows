@@ -10,7 +10,7 @@ jobs:
     
     
     steps:
-      - uses: action/checkout@4.2.2
+      - uses: actions/checkout@v6.0.3
       - name: Setup nodejs
         uses: actions/setup-node@4.2.0
         with:
