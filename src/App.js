@@ -10,8 +10,8 @@ function App() {
       <Layout>
         <Header className="header-color" title={<Link style={{textDecoration: 'none', color: 'white'}} to="/">My Portfolio</Link>} scroll>
           <Navigation>
-            <Link to="/Resume">Resume</Link>
-            <Link to="/Aboutme">About Me</Link>
+            <Link to="/Resume">Saqee</Link>
+            <Link to="/Aboutme"> Saqee Me</Link>
             <Link to="/Projects">Projects</Link>
             <Link to="/Contact">Contact</Link>
           </Navigation>
